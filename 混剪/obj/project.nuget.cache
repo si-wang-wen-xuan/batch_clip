@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEpssppXSoYbwXiTYHj80tL3uUiFiP31lD5U9fBE4qa0nGpxt4avsvYU872pWRHhnKNOmNz1o/+4ocA8OWJ5Tw==",
+  "success": true,
+  "projectFilePath": "D:\\VS项目\\混剪\\混剪\\混剪.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\24794\\.nuget\\packages\\ffmpeg.autogen\\5.0.0\\ffmpeg.autogen.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
